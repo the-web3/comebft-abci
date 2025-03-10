@@ -7,8 +7,6 @@ toolchain go1.23.7
 require (
 	github.com/cometbft/cometbft v1.0.1
 	github.com/dgraph-io/badger/v2 v2.2007.2
-	github.com/tendermint/tendermint v0.35.9
-	github.com/tendermint/tm-db v0.6.6
 )
 
 require (
@@ -20,6 +18,8 @@ require (
 	github.com/dgraph-io/ristretto v0.0.3-0.20200630154024-f66de99634de // indirect
 	github.com/dgryski/go-farm v0.0.0-20190423205320-6a90982ecee2 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
+	github.com/go-kit/log v0.2.1 // indirect
+	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
